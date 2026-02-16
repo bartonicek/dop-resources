@@ -5,10 +5,10 @@ Alphabetized list (by author) of books, talks, blogposts, interviews, etc... abo
 ## Mike Acton
 - Data oriented design and C++: https://www.youtube.com/watch?v=rX0ItVEVjHc&t
 
-## Joe Armstrong
+## Joe Armstrong (Erlang)
 - Why OO sucks: https://harmful.cat-v.org/software/OO_programming/why_oo_sucks
 
-## Ginger Bill (creator of Odin programming language)
+## Ginger Bill (Odin programming language)
 - The Fatal Flaw of Ownership Semantics: https://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/
 - What, if anything, is OOP? (Handmade hero thread): https://handmade.network/fishbowl/oop/
 
@@ -20,11 +20,11 @@ Alphabetized list (by author) of books, talks, blogposts, interviews, etc... abo
 ## Richard Fabian
 -  Data-oriented Design: Software Engineering for Limited Resources and Short Schedules: https://www.dataorienteddesign.com/dodmain/
 
-## Rich Hickey
+## Rich Hickey (Clojure)
 - Simple made easy: https://www.youtube.com/watch?v=SxdOUGdseq4
 - Simplicity matters: https://www.youtube.com/watch?v=rI8tNMsozo0
 
-## Andrew Kelley (creator of Zig programming language)
+## Andrew Kelley (Zig programming language)
 - A Practical Guide to Applying Data Oriented Design (DoD): https://www.youtube.com/watch?v=IroPQ150F6c
 
 ## Casey Muratori
@@ -44,6 +44,7 @@ Alphabetized list (by author) of books, talks, blogposts, interviews, etc... abo
 
 ## Sean Parent
 - Better Code - Runtime Polymorphism: https://www.youtube.com/watch?v=QGcVXgEVMJg
+- Locknote: Local Reasoning in C++: https://www.youtube.com/watch?v=bhizxAXQlWc
 
 ## Yenothan Sharvit
 - Principles of data-oriented programming: https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html
